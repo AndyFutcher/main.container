@@ -5,10 +5,14 @@
     "_licence_notice": "The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.",
     "_licence_warranty": "THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.",
 <<<<<<< HEAD:config/preset-gtm.json
+<<<<<<< HEAD:config/preset-gtm.json
     "_licence_version": "Dev",
 =======
     "_licence_version": "RC",
 >>>>>>> 9bc1a35 (RC Initial Version):import/main-container.json
+=======
+    "_licence_version": "Main",
+>>>>>>> cee13e4 (Initial Version - Main):import/main-container.json
     "exportFormatVersion": 2,
     "exportTime": "2025-06-29 00:08:14",
     "containerVersion": {
