@@ -1,5 +1,5 @@
 {
-    "_licence": "@license MIT License - Main Container Template",
+    "_licence": "@license MIT License - Main Events",
     "_licence_copyright": "Copyright (c) 2025 Andy Futcher",
     "_licence_permission": "Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \"Software\"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:",
     "_licence_notice": "The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.",
@@ -9,7 +9,7 @@
     "exportTime": "2025-06-29 00:08:14",
     "containerVersion": {
         "container": {
-            "name": "Main Container Template",
+            "name": "Main Events Preset GTM",
             "usageContext": [
                 "WEB"
             ],
